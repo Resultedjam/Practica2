@@ -1,0 +1,41 @@
+h2{
+    color: blueviolet;
+}
+article{
+    width: 1000px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+#principito{
+    color: blue;
+}
+#Metro2033{
+    color: gray;
+}
+.autores{
+    color: purple;
+    border-color: black;
+    border-style: solid;
+    width: 800px;
+    border-width: 1px;
+    background-color: gray;
+}
+.autorTexto{
+    color: white;
+}
+
+p{
+    color: brown;
+}
+.personajes{
+    width: 35%;
+    height: 35%;
+}
+.img_autores{
+    width: 40%;
+    height: 40%;
+}
+.generoComedia{
+    color: rgb(3, 12, 12);
+}
