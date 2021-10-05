@@ -1,41 +1,83 @@
-h2{
+h1,
+h2 {
     color: blueviolet;
+    text-align: center;
+    font-size: 1.85em;
 }
-article{
-    width: 1000px;
+
+h3 {
+    text-align: center;
+}
+
+article {
+    /*width: 1000px;*/
     border-color: black;
     border-style: solid;
     border-width: 1px;
 }
-#principito{
+
+#principito {
     color: blue;
 }
-#Metro2033{
+
+#Metro2033 {
     color: gray;
 }
-.autores{
+
+.autores {
     color: purple;
     border-color: black;
     border-style: solid;
-    width: 800px;
+    /* width: 800px;*/
     border-width: 1px;
     background-color: gray;
 }
-.autorTexto{
+
+.autorTexto {
     color: white;
+    font-size: 1.6em;
 }
 
-p{
+p {
     color: brown;
+    font-size: 1.3em;
 }
-.personajes{
-    width: 35%;
-    height: 35%;
+
+#menu-outer {
+    height: 84px;
+    background: url(images/bar-bg.jpg) repeat-x;
 }
-.img_autores{
+
+.table {
+    display: table;
+    /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+ul#horizontal-list {
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+}
+
+ul#horizontal-list li {
+    display: inline;
+}
+
+.img_autores {
     width: 40%;
     height: 40%;
 }
-.generoComedia{
+
+.generoComedia {
     color: rgb(3, 12, 12);
+}
+
+body {
+    background-color: goldenrod;
+    text-align: center;
+    width: 10px 30px 10px 30px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
 }
